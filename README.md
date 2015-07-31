@@ -1,0 +1,2 @@
+# ResourceDownloader.js
+Resource downloader
